@@ -66,3 +66,7 @@ Please ensure that your contributions adhere to the project's coding guidelines 
 
 
 ![HR ANALYTICS DASHBOARD](https://github.com/user-attachments/assets/ae4da0b3-0ae4-4da2-a6a8-64f51848b7ca)
+
+
+https://github.com/user-attachments/assets/da1e5ee6-5132-4dc3-a907-ce138441f42c
+
